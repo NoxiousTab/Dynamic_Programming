@@ -1,0 +1,9 @@
+Problem statement:
+Given an integer input 'n', find the n'th element in the fibonacci sequence.
+Fibonacci sequence is a very famous sequence in which a term is the sum of the previous two terms in the sequence.
+
+The first and second elements in the sequence is 1.
+
+Example input:
+n=3
+output: 2
