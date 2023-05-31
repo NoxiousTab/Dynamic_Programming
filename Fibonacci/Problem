@@ -7,3 +7,5 @@ The first and second elements in the sequence is 1.
 Example input:
 n=3
 output: 2
+
+The Optimised solution is in fib.java (for java) and fib.js (for javascript)
